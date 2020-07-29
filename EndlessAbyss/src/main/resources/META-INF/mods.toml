@@ -18,9 +18,9 @@ version="1.15.2-0.0.1" #mandatory
  # A display name for the mod
 displayName="Endless Abyss" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification <here>
-updateJSONURL="https://github.com/kingtorsten/new-endlessabyss" #optional
+updateJSONURL="https://github.com/kingtorsten/NewEndlessAbyss" #optional
 # A URL for the "homepage" for this mod, displayed in the mod UI
-displayURL="https://github.com/kingtorsten/new-endlessabyss" #optional
+displayURL="https://github.com/kingtorsten/NewEndlessAbyss" #optional
 # A file name (in the root of the mod JAR) containing a logo for display
 logoFile="examplemod.png" #optional
 # A text field displayed in the mod UI
