@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "endlessabyss:copper_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "endlessabyss:copper_block",
+    "count": 1
+  }
+}

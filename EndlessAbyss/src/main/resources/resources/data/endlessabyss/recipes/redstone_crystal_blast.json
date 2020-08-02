@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "endlessabyss:redstone_crystal_ore"
+  },
+  "result": "endlessabyss:redstone_crystal",
+  "experience": 10.0,
+  "cookingtime": 900
+}

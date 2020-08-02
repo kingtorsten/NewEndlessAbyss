@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "endlessabyss:redstone_crystal_block"
+    }
+  ],
+  "result":
+  {
+    "item": "endlessabyss:redstone_crystal",
+    "count": 9
+  }
+}
