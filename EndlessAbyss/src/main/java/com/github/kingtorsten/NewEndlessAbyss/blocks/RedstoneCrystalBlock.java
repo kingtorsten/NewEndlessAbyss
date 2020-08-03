@@ -12,8 +12,7 @@ public class RedstoneCrystalBlock extends OreBlock
         super(Properties.create(Material.IRON)
                 .hardnessAndResistance(20.0f, 100.0f)
                 .sound(SoundType.STONE)
-                //placeholder, needs to be 5 when 5 added.
-                .harvestLevel(4)
+                .harvestLevel(5)
                 .setRequiresTool()
                 .harvestTool(ToolType.PICKAXE)  
         );
