@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "endlessabyss:squid_flesh"
+  },
+  "result": "endlessabyss:cooked_squid_flesh",
+  "experience": 10.0,
+  "cookingtime": 200
+}
