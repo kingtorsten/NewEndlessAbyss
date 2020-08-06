@@ -1,13 +1,12 @@
 package com.github.kingtorsten.NewEndlessAbyss.world.gen;
 
 import com.github.kingtorsten.NewEndlessAbyss.EndlessAbyss;
-import com.github.kingtorsten.NewEndlessAbyss.util.RegistryHandler;
+import com.github.kingtorsten.NewEndlessAbyss.init.ModBlocks;
 import net.minecraft.block.BlockState;
 import net.minecraft.world.biome.Biome;
 import net.minecraft.world.biome.Biomes;
 import net.minecraft.world.gen.GenerationStage;
 import net.minecraft.world.gen.feature.Feature;
-import net.minecraft.world.gen.feature.OreFeature;
 import net.minecraft.world.gen.feature.OreFeatureConfig;
 import net.minecraft.world.gen.placement.ConfiguredPlacement;
 import net.minecraft.world.gen.placement.CountRangeConfig;
@@ -27,16 +26,16 @@ public class ModOreGen
 
             if (biome.getCategory() == Biome.Category.NETHER) {
                 genOre(biome, 3, 4, 3, 33, OreFeatureConfig.FillerBlockType.NETHERRACK,
-                        RegistryHandler.REDSTONE_CRYSTAL_ORE.get().getDefaultState(), 3);
+                        ModBlocks.REDSTONE_CRYSTAL_ORE.get().getDefaultState(), 3);
             }   else if (biome.getCategory() == Biome.Category.THEEND) {
 
             }   else {
                 if (biome == Biomes.MOUNTAINS) {
-                    genOre(biome, 5, 7, 3, 50, OreFeatureConfig.FillerBlockType.NATURAL_STONE,
-                            RegistryHandler.TITANIUM_ORE.get().getDefaultState(), 3);
+                    genOre(biome, 7, 7, 3, 50, OreFeatureConfig.FillerBlockType.NATURAL_STONE,
+                            ModBlocks.TITANIUM_ORE.get().getDefaultState(), 6);
             }
                 genOre(biome, 10, 30, 3, 70, OreFeatureConfig.FillerBlockType.NATURAL_STONE,
-                        RegistryHandler.COPPER_ORE.get().getDefaultState(), 6);
+                        ModBlocks.COPPER_ORE.get().getDefaultState(), 6);
             }
         }
     }
