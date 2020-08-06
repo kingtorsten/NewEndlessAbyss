@@ -4,6 +4,7 @@
   "item.endlessabyss.copper_wire": "Copper Wire",
   "item.endlessabyss.redstone_crystal": "Redstone Crystal",
   "item.endlessabyss.diving_leather": "Squid Hide",
+  "item.endlessabyss.ohno": "Oh No",
   "item.endlessabyss.squid_flesh": "Squid Flesh",
   "item.endlessabyss.cooked_squid_flesh": "Cooked Squid Flesh",
 
@@ -38,6 +39,9 @@
   "block.endlessabyss.titanium_block": "Titanium Block",
   "block.endlessabyss.copper_block": "Copper Block",
   "block.endlessabyss.redstone_crystal_block": "Redstone Crystal Block",
+  "block.endlessabyss.large_kelp": "Large Kelp",
 
-  "itemGroup.endlessabyssitems": "Endless Abyss Items"
+  "itemGroup.endlessabyssitems": "Endless Abyss Items",
+
+  "entity.endlessabyss.herbivorous_squid": "Herbivorous Squid"
 }
