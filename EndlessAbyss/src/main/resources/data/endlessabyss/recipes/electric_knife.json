@@ -12,7 +12,7 @@
 	{
 		"D": { "item": "minecraft:diamond" },
 		"R": { "item": "endlessabyss:redstone_crystal" },
-		"I": { "item": "endlessabyss:titanium_ingot" },
+		"I": { "tag": "endlessabyss:titanium" },
 		"W": { "item": "endlessabyss:copper_wire" }		
 	},
 	

@@ -10,10 +10,10 @@
 	
 	"key":
 	{
-		"G": { "item": "endlessabyss:diving_goggles" },
+		"G": { "item": "endlessabyss:divingtier1_helmet" },
 		"R": { "item": "endlessabyss:redtone_crystal" },
 		"D": { "item": "minecraft_diamond" },	
-		"I": { "item": "endlessabyss:titanium_ingot" }
+		"I": { "tag": "endlessabyss:titanium" }
 	},
 	
 	"result": {"item": "endlessabyss:divingtier2_helmet" }

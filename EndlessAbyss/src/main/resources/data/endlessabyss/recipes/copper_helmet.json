@@ -9,7 +9,7 @@
 	
 	"key":
 	{
-		"I": { "item": "endlessabyss:copper_ingot" }
+		"I": { "tag": "endlessabyss:copper" }
 	},
 	
 	"result": {"item": "endlessabyss:copper_helmet" } 

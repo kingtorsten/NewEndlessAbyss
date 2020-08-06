@@ -13,7 +13,7 @@
 		"F": { "item": "endlessabyss:flippers" },
 		"R": { "item": "endlessabyss:redtone_crystal" },
 		"D": { "item": "minecraft_diamond" },	
-		"I": { "item": "endlessabyss:titanium_ingot" }
+		"I": { "tag": "endlessabyss:titanium" }
 	},
 	
 	"result": {"item": "endlessabyss:divingtier2_boots" }

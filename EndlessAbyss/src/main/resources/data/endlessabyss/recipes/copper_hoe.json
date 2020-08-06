@@ -10,7 +10,7 @@
 	
 	"key":
 	{
-		"I": { "item": "endlessabyss:copper_ingot" },
+		"I": { "tag": "endlessabyss:copper" },
 		"S": { "item": "minecraft:stick" }		
 	},
 	
