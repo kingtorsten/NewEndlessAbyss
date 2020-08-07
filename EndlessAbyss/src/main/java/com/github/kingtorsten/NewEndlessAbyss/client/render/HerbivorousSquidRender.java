@@ -17,6 +17,6 @@ public class HerbivorousSquidRender extends MobRenderer<HerbivorousSquidEntity, 
 
     @Override
     public ResourceLocation getEntityTexture(HerbivorousSquidEntity entity) {
-        return null;
+        return TEXTURE;
     }
 }
