@@ -1,7 +1,0 @@
-
-{
-     "parent": "block/cube_all",
-     "textures": {
-         "all": "endlessabyss:blocks/redstone_crystal_block"
-     }
-}
