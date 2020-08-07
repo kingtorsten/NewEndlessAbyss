@@ -38,6 +38,20 @@
             }
           ],
           "name": "endlessabyss:squid_flesh"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0.0,
+                "max": 1.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "endlessabyss:diving_leather"
         }
       ]
     }
