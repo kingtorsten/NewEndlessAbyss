@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "minecraft:leather"
-  },
-  "result": "endlessabyss:diving_leather",
-  "experience": 1.0,
-  "cookingtime": 150
-}
