@@ -14,7 +14,7 @@ issueTrackerURL="http://my.issue.tracker/" #optional
 # The modid of the mod
 modId="endlessabyss" #mandatory
 # The version number of the mod - there's a few well known ${} variables useable here or just hardcode it
-version="1.16.1-0.1.0" #mandatory
+version="1.16.1-0.1.2" #mandatory
  # A display name for the mod
 displayName="Endless Abyss" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification <here>
@@ -29,10 +29,14 @@ java: the goddamn programming language
 the youtuber TechnoVision for making tutorials to make a mod
 the youtuber harry talks for making other tutorials for a mod, who was my instructor for the discontinued repository on my github
 myself because i coded it
+the youtuber TygoDeMineCrafter for enhancing a lot of the textures
 you for giving a shit about anything i made
 " #optional
 # A text field displayed in the mod UI
-authors="kingtorsten" #optional
+authors="
+kingtorsten
+TygoDeMineCrafter
+" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
 the ocean depths are calling...
