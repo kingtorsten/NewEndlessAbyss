@@ -15,7 +15,7 @@ import java.util.function.Supplier;
 public enum ModArmorMaterial implements IArmorMaterial
 {
 
-    COPPER(EndlessAbyss.MOD_ID + ":copper", 17, new int[] { 3, 5, 6, 2 }, 14,
+    COPPER(EndlessAbyss.MOD_ID + ":copper", 10, new int[] { 3, 5, 6, 2 }, 14,
             SoundEvents.ITEM_ARMOR_EQUIP_IRON, 0.0F, () -> { return Ingredient.fromItems(ModItems.COPPER_INGOT.get()); }, 0),
 
     DIVINGTIER1(EndlessAbyss.MOD_ID + ":divingtier1", 10, new int[] { 1, 2, 2, 1 }, 8,

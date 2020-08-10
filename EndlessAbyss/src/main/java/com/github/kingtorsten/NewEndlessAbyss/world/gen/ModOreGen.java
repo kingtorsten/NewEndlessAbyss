@@ -34,8 +34,10 @@ public class ModOreGen
                     genOre(biome, 7, 7, 3, 50, OreFeatureConfig.FillerBlockType.NATURAL_STONE,
                             ModBlocks.TITANIUM_ORE.get().getDefaultState(), 6);
             }
+                genOre(biome, 10, 50, 3, 70, OreFeatureConfig.FillerBlockType.NATURAL_STONE,
+                        ModBlocks.COPPER_ORE.get().getDefaultState(), 20);
                 genOre(biome, 10, 30, 3, 70, OreFeatureConfig.FillerBlockType.NATURAL_STONE,
-                        ModBlocks.COPPER_ORE.get().getDefaultState(), 6);
+                        ModBlocks.TIN_ORE.get().getDefaultState(), 6);
             }
         }
     }
