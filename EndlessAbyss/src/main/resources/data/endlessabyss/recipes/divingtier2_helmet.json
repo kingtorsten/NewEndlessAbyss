@@ -11,7 +11,7 @@
 	"key":
 	{
 		"G": { "item": "endlessabyss:divingtier1_helmet" },
-		"R": { "item": "endlessabyss:redtone_crystal" },
+		"R": { "item": "endlessabyss:redstone_crystal" },
 		"D": { "item": "minecraft_diamond" },	
 		"I": { "tag": "endlessabyss:titanium" }
 	},

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "endlessabyss:tin_block"
+    }
+  ],
+  "result":
+  {
+    "item": "endlessabyss:tin_ingot",
+    "count": 9
+  }
+}

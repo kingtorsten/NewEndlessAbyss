@@ -11,9 +11,9 @@
 	"key":
 	{
 		"F": { "item": "endlessabyss:flippers" },
-		"R": { "item": "endlessabyss:redtone_crystal" },
+		"R": { "item": "endlessabyss:redstone_crystal" },
 		"D": { "item": "minecraft_diamond" },	
-		"I": { "tag": "endlessabyss:titanium" }
+		"I": { "tag": "endlessabyss:titanium_ingot" }
 	},
 	
 	"result": {"item": "endlessabyss:divingtier2_boots" }

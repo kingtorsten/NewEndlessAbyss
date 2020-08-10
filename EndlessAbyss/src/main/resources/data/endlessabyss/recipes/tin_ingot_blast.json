@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "endlessabyss:tin_ore"
+  },
+  "result": "endlessabyss:tin_ingot",
+  "experience": 1.0,
+  "cookingtime": 150
+}
